@@ -1,0 +1,11 @@
+body{font-family: arial;
+background-color: #ffe6e6;
+text-align: center}
+li{color: coral;}
+h1{background-color: antiquewhite; color:darkslategrey}
+h2{background-color: bisque; color:dimgrey}
+h2#american{color:darkcyan}
+h3{background-color: cornsilk; color:darkgrey}
+p{color:coral}
+table{ border-color: darkslateblue; border-width: 5px; color:cornflowerblue}
+form{color:darkolivegrealign-self:  
